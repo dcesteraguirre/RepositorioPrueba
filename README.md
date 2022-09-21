@@ -1,3 +1,3 @@
 # Repositorio de ejemplo
 
-Esta segnda linea irá en el commit 2.
+Esta segunda linea irá en el commit 2.
